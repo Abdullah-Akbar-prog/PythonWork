@@ -10,4 +10,28 @@ All class names are taken **at runtime**, so you can classify anything you want 
 ---
 
 # 📁 Project Structure
+project/
+│
+├── capture_images.py
+├── train_model.py
+├── predict_realtime.py
+│
+└── dataset/
+├── class1/
+└── class2/
 
+
+---
+
+# ⚙️ Installation
+
+Install dependencies:
+
+```bash
+pip install tensorflow opencv-python numpy pillow
+
+
+
+---
+
+If you want a **GitHub version**, **icons**, **images**, or **badges**, I can format it for you.
