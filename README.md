@@ -1,10 +1,3 @@
-Below is a **complete, professional, clean README.md** for your project.
-You can copy-paste this file directly into **README.md**.
-
-I also included all the **commands**, folder structure, installation steps, and run instructions.
-
----
-
 # 📌 Real-Time Object Classification Using OpenCV + TensorFlow + Tkinter
 
 This project allows you to **capture images**, **train a deep learning model**, and **perform real-time object prediction** using your webcam.
