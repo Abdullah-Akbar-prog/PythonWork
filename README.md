@@ -178,12 +178,4 @@ If you want, I can upgrade any part for you.
 
 # 🎉 You're Ready to Use Your Own AI Classifier!
 
-If you'd like, I can also:
 
-✅ Make the UI beautiful
-✅ Add sound alerts
-✅ Add model accuracy graphs
-✅ Create one-click `.exe` file
-✅ Add third class (runtime)
-
-Just tell me — I’ll build it step by step.
